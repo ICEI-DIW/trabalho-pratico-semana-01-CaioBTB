@@ -7,8 +7,8 @@ Nome: Caio Batista Teixeira Botelho
 Matricula: 894408
 
 ## Tela de inspeção com navegador
-<img src="Print1.png" alt="">
-<img src="Print2" alt="">
+<img src="Print1.png" alt="200px">
+<img src="Print2" alt="200px">
 ## Tela de projeto no Replit
-<img src="Print3" alt="">
-<img src="Print4" alt="">
+<img src="Print3" alt="200px">
+<img src="Print4" alt="200px">
