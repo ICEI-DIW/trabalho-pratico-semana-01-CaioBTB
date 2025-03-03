@@ -8,7 +8,7 @@ Matricula: 894408
 
 ## Tela de inspeção com navegador
 <img src="Print1.png" alt="200px">
-<img src="Print2" alt="200px">
+<img src="Print2.png" alt="200px">
 ## Tela de projeto no Replit
-<img src="Print3" alt="200px">
-<img src="Print4" alt="200px">
+<img src="Print3.png" alt="200px">
+<img src="Print4.png" alt="200px">
