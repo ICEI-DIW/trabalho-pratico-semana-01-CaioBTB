@@ -3,7 +3,6 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Caio Batista Teixeira Botelho
 Matricula: 
 
 ## Tela de inspeção com navegador
